@@ -13,7 +13,7 @@
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 ### 🎯 **Modern Development Stack**
 
